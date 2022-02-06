@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_Mask_and_NoMask</folder>
+	<filename>5ff1f21c-dbd3-11eb-ab35-d43b04e8c636.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\All_Mask_and_NoMask\5ff1f21c-dbd3-11eb-ab35-d43b04e8c636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>332</ymin>
+			<xmax>407</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
